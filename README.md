@@ -1,5 +1,8 @@
 Hi, I'm Alinda!
 
-I am currently focusing on creating video games via game jams that I host between friends.
+Just having fun with programming. Currently into making video games in Unity with my friends and by myself.
 
-✣ Check out my [portfolio website](https://alinda.dev) and my blog, [The Renaissance](https://www.the-renaissance.org/)!
+Check out my stuff!
+✣ [Portfolio website](https://alinda.dev)
+✣ [Blog - The Renaissance](https://www.the-renaissance.org/)!
+✣ [itch.io](https://alinda.itch.io/)
